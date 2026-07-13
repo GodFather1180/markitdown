@@ -1,0 +1,2 @@
+markitdown ~/Downloads/Ch03-MLR-Part1.pdf -o ~/Downloads/Ch03-MLR-Part1.md
+
